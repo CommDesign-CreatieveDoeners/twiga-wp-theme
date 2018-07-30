@@ -1,2 +1,2 @@
-# twiga-wp-theme
+# TWIGA WordPress Theme
 WordPress Theme for TWIGA Communications 
